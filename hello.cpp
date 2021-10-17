@@ -10,8 +10,8 @@ class base{
         return a+b;
     }
     int avg(int a,int b){
-    return (a+b)/2;
-} 
+        return (a+b)/2;
+    } 
 };
 /* int base::sumup(int a,int b){
     return a+b;
