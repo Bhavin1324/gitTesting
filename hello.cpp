@@ -4,21 +4,21 @@ class base{
     private:
     int a,b;
     public:
-    // int sumup(int,int);
-    // int avg(int,int);
-    int sumup(int a,int b){
+    int sumup(int,int);
+    int avg(int,int);
+    /* int sumup(int a,int b){
         return a+b;
     }
     int avg(int a,int b){
         return (a+b)/2;
-    } 
+    }  */
 };
-/* int base::sumup(int a,int b){
+int base::sumup(int a,int b){
     return a+b;
 }
 int base::avg(int a,int b){
     return (a+b)/2;
-} */
+}
 int main(){
     base obj;
     int a,b;
