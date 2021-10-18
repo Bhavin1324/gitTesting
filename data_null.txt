@@ -1,1 +1,2 @@
-this is testing directory for practicing git. I am beginner so please infrom me if i made any mistek
+this is testing directory for practicing git. I am beginner so please infrom me if i made any mistek.
+Changes has been done
