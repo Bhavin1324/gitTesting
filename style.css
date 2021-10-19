@@ -15,5 +15,29 @@ h1{
     padding:15px;
     margin: 20px auto;
     background-color: #eee;
-    border-radius: 20px;
+    border-radius: 20px;    
+}
+input[type="button"]{
+    margin: 10px;
+    font-family: cursive;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 11px;
+    font-size: 16px;
+    padding: 8px;
+    width: 7.7rem;
+    transition: all 0.5s ease;
+}
+input[type="button"]:hover,input[type=button]:focus{
+    background-color: white;
+    color: black;
+}
+#buttons{
+    width: 30rem;
+    display: flex;
+    justify-content: right;
+    margin: 20px auto;
+    padding: 7px;
+    flex-wrap: wrap;
 }
