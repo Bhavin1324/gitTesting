@@ -1,0 +1,10 @@
+h1{
+    border: 2px solid green;
+    font-family: cursive;
+    border-radius: 10px;
+    padding: 8px;
+    background-color: lightpink;
+    margin: 12px auto;
+    width: 30rem;
+    text-align: center;
+}
